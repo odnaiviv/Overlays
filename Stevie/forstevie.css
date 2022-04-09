@@ -3,7 +3,8 @@ body {
 	margin: 0px auto;
 	overflow: hidden;
 }
-li.voice-state:not([data-reactid*="237288446970953728"]) {
+/* hiding stevie's discord id */
+li.voice-state:not([data-reactid*="stevieid"]) {
 	display: none;
 }
 /* currently using tv.png sprite for idle */

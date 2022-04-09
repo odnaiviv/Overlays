@@ -3,8 +3,8 @@ body {
 	margin: 0px auto;
 	overflow: hidden;
 }
-/* getting my id */
-li.voice-state:not([data-reactid*="264442643948240896"]) {
+/* hiding my discord id */
+li.voice-state:not([data-reactid*="vivianid"]) {
 	display: none;
 }
 /* currently using this old doodle by emmy/comfy for idle */
